@@ -50,7 +50,7 @@
         android:background="@drawable/btn_design"
         android:backgroundTint="#3C72DF"
         android:elevation="10dp"
-        android:text="url 단축하기"
+        android:text="URL 단축하기"
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="18sp"

@@ -13,4 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-/app/src/main/java/myapp/littlebuffett/shorturl/Configs.kt
+app/src/main/java/myapp/littlebuffett/shorturl/Configs.kt
